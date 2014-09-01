@@ -1,7 +1,6 @@
 {
-  "name": "qrservices",
-  "version": "0.0.1",
-  "private":true,
+  "name": "node-qr-services",
+  "version": "0.0.1"
 }
 
 
